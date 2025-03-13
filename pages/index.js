@@ -17,7 +17,7 @@ export default function Home() {
 
     return (
         <div style={{ textAlign: "center", marginTop: "50px" }}>
-            <h1>Confia no processo</h1>
+            <h1>O processo é lento e o barato é louco, mas compensa. Confia.</h1>
             <button
                 style={{
                     backgroundColor: "green",

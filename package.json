@@ -1,0 +1,16 @@
+{
+  "name": "vamo_dale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vercel/kv": "^3.0.0",
+    "next": "^15.2.2",
+    "react": "^19.0.0"
+  }
+}
